@@ -8,7 +8,7 @@ def main():
     celsius = int(input('Enter the celsius:'))
 
     fahrenheit = celsius * (9/5) + 32;
-    print (f'Fahrenheit: \t {fahrenheit:.2f}')
+    print (f'Fahrenheit:\t {fahrenheit:.2f}')
     """
     ########################################
     # Do not delete the return statement
